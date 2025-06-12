@@ -1,146 +1,146 @@
-﻿<h1>Guia de Instalação do MySQL for Windows</h1>
+<h1>MySQL for Windows Installation Guide</h1>
 
-<h2>Passo 01 - Download do instalador</h2>
+<h2>Step 01 - Download the installer</h2>
 
-1) Acesse o site: https://dev.mysql.com/downloads/ para efetuar o download do **MySQL Server - Community**.
+1) Access the website: https://dev.mysql.com/downloads/ to download **MySQL Server - Community**.
 
-2) Clique no link **MySQL installer for Windows**, conforme indicado na figura abaixo:
+2) Click on the **MySQL installer for Windows** link, as indicated in the figure below:
 
 <div align="center"><img  src="https://i.imgur.com/wP42ICv.png" title="source: imgur.com" /></div>
 
-3)  Clique no segundo link,  **Windows (x86, 32-bit), MSI Installer**, conforme indicado na figura abaixo:
+3) Click on the second link, **Windows (x86, 32-bit), MSI Installer**, as indicated in the figure below:
 
 <div align="center"><img src="https://i.imgur.com/CM8f3nz.png" title="source: imgur.com" /></div>
 
-| <img src="https://i.imgur.com/hOgWvSc.png" title="source: imgur.com" width="120px"/> | <p align="justify"> **ATENÇÃO:** No momento em que este guia foi escrito, a versão mais atual do MySQL era a versão 8.0.26.0. Ao utilizar este guia no futuro, pode ser que a versão mais atual seja outra* </p> |
+| <img src="https://i.imgur.com/hOgWvSc.png" title="source: imgur.com" width="120px"/> | <p align="justify"> **ATTENTION:** At the time this guide was written, the latest version of MySQL was 8.0.26.0. When using this guide in the future, the latest version may be different* </p> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-4)  Clique no link **No thanks, just start my download**, para iniciar o download imediatamente sem cadastro, conforme indicado na figura abaixo:
+4) Click on the link **No thanks, just start my download**, to start the download immediately without registration, as indicated in the figure below:
 
 <div align="center"><img  src="https://i.imgur.com/lpG1eSl.png" title="source: imgur.com" /></div>
 
-5) Salve o arquivo.
+5) Save the file.
 
 <div align="center"><img src="https://i.imgur.com/zA2drj2.png" title="source: imgur.com" /></div>
 
-6) Abra a pasta de downloads e execute o instalador com um duplo clique sobre o arquivo.
+6) Open the downloads folder and run the installer by double-clicking the file.
 
 <div align="center"><img src="https://i.imgur.com/SIqI29z.png" title="source: imgur.com" /></div>
 
-<h2>Passo 02 - Instalação e configuração</h2>
+<h2>Step 02 - Installation and configuration</h2>
 
-1. Na janela **Choosing a Setup Type**, marque a opção **Custom** e clique no botão **Next** para continuar.
+1. In the **Choosing a Setup Type** window, select the **Custom** option and click the **Next** button to continue.
 <div align="center"><img  src="https://i.imgur.com/FhyD8L8.png" title="source: imgur.com" /></div>
 
-2. Na janela **Select Products**, marque a opção **MySQL Server** (última versão), como mostra a figura abaixo e clique no botão <img src="https://i.imgur.com/GTcQ4fK.png" title="source: imgur.com" /> para adicionar na lista de produtos que serão instalados.
+2. In the **Select Products** window, select the **MySQL Server** option (latest version), as shown in the figure below, and click the <img src="https://i.imgur.com/GTcQ4fK.png" title="source: imgur.com" /> button to add it to the list of products to be installed.
 <div align="center"><img  src="https://i.imgur.com/1DNaL8e.png" title="source: imgur.com" /></div>
 
-3. Ainda na janela **Select Products**, marque a opção **MySQL Workbench** (última versão), como mostra a figura abaixo e clique no botão <img src="https://i.imgur.com/GTcQ4fK.png" title="source: imgur.com" /> para adicionar na lista de produtos que serão instalados.
+3. Still in the **Select Products** window, select the **MySQL Workbench** option (latest version), as shown in the figure below, and click the <img src="https://i.imgur.com/GTcQ4fK.png" title="source: imgur.com" /> button to add it to the list of products to be installed.
 <div align="center"><img  src="https://i.imgur.com/k243e8F.png" title="source: imgur.com" /></div>
 
-4. Verifique se a lista de produtos que serão instalados está correta e clique no botão **Next** para continuar.
+4. Verify that the list of products to be installed is correct and click the **Next** button to continue.
 <div align="center"><img  src="https://i.imgur.com/eB3OVTP.png" title="source: imgur.com" /></div>
 
-5. Na janela **Installation**, clique no botão **Execute** para iniciar a instalação.
+5. In the **Installation** window, click the **Execute** button to start the installation.
 <div align="center"><img  src="https://i.imgur.com/CACoYmO.png" title="source: imgur.com" /></div>
 
-6. Quando a instalação dos produtos for concluída, clique no botão **Next** para continuar.
+6. When the product installation is complete, click the **Next** button to continue.
 <div align="center"><img  src="https://i.imgur.com/JKS7dd4.png" title="source: imgur.com" /></div>
 
-7. Na janela **Product Configuration**, clique no botão **Next** para continuar.
+7. In the **Product Configuration** window, click the **Next** button to continue.
 <div align="center"><img  src="https://i.imgur.com/4DzBPNl.png" title="source: imgur.com" /></div>
 
-8. Na janela **Type and Networking**, mantenha a configuração padrão clique no botão **Next** para continuar.
+8. In the **Type and Networking** window, keep the default settings and click the **Next** button to continue.
 <div align="center"><img  src="https://i.imgur.com/Qj9cDvs.png" title="source: imgur.com" /></div>
 
-9. Na janela **Authentication Method**, mantenha a configuração padrão clique no botão **Next** para continuar.
+9. In the **Authentication Method** window, keep the default settings and click the **Next** button to continue.
 <div align="center"><img  src="https://i.imgur.com/Jy5t7Tt.png" title="source: imgur.com" /></div>
 
-10. Na janela **Accounts and Roles**, digite uma senha para o usuário **root** (Usuário Administrador do MySQL) e clique no botão **Next** para continuar. Recomendamos que você defina a senha do MySQL como **root** (Veja a observação na próxima página).
+10. In the **Accounts and Roles** window, enter a password for the **root** user (MySQL Administrator User) and click the **Next** button to continue. We recommend that you set the MySQL password as **root** (See the note on the next page).
 
 <div align="center"><img  src="https://i.imgur.com/PAgdDkH.png" title="source: imgur.com" /></div>
 
-<div align="center"><h2> *** Importante *** </h2></div>
+<div align="center"><h2> *** Important *** </h2></div>
 
-Recomendamos o uso da senha **root** como senha do MySQL por se tratar de uma senha padrão, fácil de ser lembrada e que pode ser compartilhada livremente no Github. 
-Caso você opte por outra senha, anote a senha em um lugar seguro e/ou utilize uma senha que você não se esquecerá no futuro. 
-Outro cuidado importante é **não utilize uma senha de uso pessoal tais como e-mail, redes sociais  e etc**. Lembre-se que você irá compartilhar códigos através do Github e a sua senha ficará exposta nos repositórios do Github. 
-**Caso você esqueça a sua senha  será necessário reinstalar o MySQL para cadastrar uma nova senha**.
+We recommend using the password **root** as the MySQL password because it is a standard password, easy to remember, and can be freely shared on Github.
+If you choose another password, write it down in a safe place and/or use a password that you will not forget in the future.
+Another important precaution is **do not use a personal password such as email, social networks, etc.** Remember that you will share code through Github and your password will be exposed in Github repositories.
+**If you forget your password, you will need to reinstall MySQL to set a new password**.
 
-11. Na janela **Windows Service**, mantenha a configuração padrão clique no botão **Next** para continuar.
+11. In the **Windows Service** window, keep the default settings and click the **Next** button to continue.
 <div align="center"><img  src="https://i.imgur.com/jJNGMCi.png" title="source: imgur.com" /></div>
 
-12. Na janela **Apply Configuration**, clique no botão **Execute** para aplicar as configurações.
+12. In the **Apply Configuration** window, click the **Execute** button to apply the settings.
 <div align="center"><img  src="https://i.imgur.com/phCVyrC.png" title="source: imgur.com" /></div>
 
-13. Quando a configuração for concluída, clique no botão **Next** para continuar.
+13. When the configuration is complete, click the **Next** button to continue.
 <div align="center"><img  src="https://i.imgur.com/68DkOKZ.png" title="source: imgur.com" /></div>
 
-14. Na janela **Product Configuration**, clique no botão **Next** para aplicar as configurações.
+14. In the **Product Configuration** window, click the **Next** button to apply the settings.
 <div align="center"><img  src="https://i.imgur.com/hNomVqz.png" title="source: imgur.com" /></div>
 
-15. Na janela **Installation Complete**, clique no botão **Finish** para finalizar a instalação.
+15. In the **Installation Complete** window, click the **Finish** button to finalize the installation.
 <div align="center"><img  src="https://i.imgur.com/20Odl4I.png" title="source: imgur.com" /></div>
 
-16. Ao finalizar a instalação o **MySQL Workbench** será inicializado.
+16. Upon completion of the installation, **MySQL Workbench** will be launched.
 <div align="center"><img  src="https://i.imgur.com/5BYFXRe.png" title="source: imgur.com" /></div>
 
-<h2>Passo 03 - Testando a conexão no Workbench</h2>
+<h2>Step 03 - Testing the connection in Workbench</h2>
 
-1. No <b>MySQL Workbench</b>, Clique sobre a Conexão <b>Local instance MySQL80</b>
+1. In <b>MySQL Workbench</b>, click on the <b>Local instance MySQL80</b> connection.
 
 <div align="center"><img src="https://i.imgur.com/HBdNTkU.png" title="source: imgur.com" /></div>
 
-2. Caso seja solicitada a senha, <b>digite a senha do usuário root</b> e marque a opção <b>Save password in vault</b> para gravar a senha e não perguntar novamente.
+2. If prompted for a password, <b>enter the root user password</b> and check the <b>Save password in vault</b> option to save the password and not be asked again.
 
 <div align="center"><img src="https://i.imgur.com/xC6JFoe.png" title="source: imgur.com" /></div>
 
-3. Será aberta a janela principal do <b>MySQL Workbench</b>. Para testar o MySQL digite o comando <b><code>select @@version</code></b> na janela query1, como mostra a figura abaixo (marcado em azul). Em seguida, clique no ícone <img src="https://i.imgur.com/3Bl39ca.png" title="source: imgur.com" /> para executar a instrução. Será exibida a versão do MySQL que está instalada no seu computador, como mostra a figura abaixo (marcado em vermelho).
+3. The main <b>MySQL Workbench</b> window will open. To test MySQL, type the command <b><code>select @@version</code></b> in the query1 window, as shown in the figure below (marked in blue). Then, click the <img src="https://i.imgur.com/3Bl39ca.png" title="source: imgur.com" /> icon to execute the statement. The version of MySQL installed on your computer will be displayed, as shown in the figure below (marked in red).
 
 <div align="center"><img src="https://i.imgur.com/R3rCWjn.png" title="source: imgur.com" /></div>
 
-<h2>Erro: Workbench desconectado</h2>
+<h2>Error: Workbench disconnected</h2>
 
-Caso a Barra de Ferramentas do Editor de Consultas esteja desabilitada, como mostra a figura abaixo, significa que você não efetuou a conexão com o MySQL Server na tela inicial do MySQL Workbench.
+If the Query Editor Toolbar is disabled, as shown in the figure below, it means that you have not connected to the MySQL Server on the MySQL Workbench home screen.
 
 <div align="center"><img src="https://i.imgur.com/g85JKEL.png" title="source: imgur.com" /></div>
 
-Observe que na Guia do Editor de consultas aparece a palavra **unconnected** (desconectado), como mostra a figura abaixo:
+Note that the word **unconnected** appears in the Query Editor Tab, as shown in the figure below:
 
 <div align="center"><img src="https://i.imgur.com/74Wap0e.png" title="source: imgur.com" /></div>
 
-Para Corrigir este problema, clique no ícone <img src="https://i.imgur.com/8hu9zjU.png" title="source: imgur.com" />, ao lado da guia do Editor de consultas para retornar para a tela inicial do Workbench.
+To fix this problem, click the <img src="https://i.imgur.com/8hu9zjU.png" title="source: imgur.com" /> icon next to the Query Editor tab to return to the Workbench home screen.
 
 <div align="center"><img src="https://i.imgur.com/5CtdmCs.png" title="source: imgur.com" /></div>
 
-Na tela inicial, dê um duplo clique sobre a conexão **Local instance MySQL80** (Conexão local), como mostra a figura abaixo, para efetuar a conexão com o MySQL Server.
+On the home screen, double-click the **Local instance MySQL80** connection (Local connection), as shown in the figure below, to connect to the MySQL Server.
 
 <div align="center"><img src="https://i.imgur.com/HBdNTkU.png" title="source: imgur.com" /></div>
 
-Caso seja solicitada a senha do usuário root, como mostra a figura abaixo, digite a senha e marque a opção: **Save password in vault**, para gravar a senha e não solicitar novamente.
+If prompted for the root user password, as shown in the figure below, enter the password and check the **Save password in vault** option to save the password and not be prompted again.
 
 <div align="center"><img src="https://i.imgur.com/xC6JFoe.png" title="source: imgur.com" /></div>
  
-Observe que após efetuar a conexão com o MySQL Server, a Barra de Ferramentas estará ativada, a palavra **unconnected** será substituída por **Local instance MySQL80** na Guia do Editor de consultas e o MySQL voltará a funcionar normalmente.
+Note that after connecting to the MySQL Server, the Toolbar will be enabled, the word **unconnected** will be replaced by **Local instance MySQL80** in the Query Editor Tab, and MySQL will function normally again.
 
 <div align="center"><img src="https://i.imgur.com/qNjLvqW.png" title="source: imgur.com" /></div>
 
-<h2>Desabilitar o Update diário à 0h</h2>
+<h2>Disable Daily Update at 12 AM</h2>
 
-O MySQL configura durante a instalação a atualização diária à 0h. Todos os dias neste horário, aparece uma janela do **Prompt de Comando do Windows** executando uma série de comandos e ao finalizar fecha a janela automaticamente. Para desabilitar esta opção, siga os passos abaixo:
+MySQL configures a daily update at 12 AM during installation. Every day at this time, a **Windows Command Prompt** window appears, executing a series of commands, and then closes automatically upon completion. To disable this option, follow the steps below:
 
-1. Na Caixa de pesquisas, localize o <b>Agendador de Tarefas</b> (Marcado em vermelho na imagem), e clique no <b>Agendador de Tarefas</b>  (Marcado em azul na imagem).
+1. In the Search Box, locate the <b>Task Scheduler</b> (Marked in red in the image), and click on <b>Task Scheduler</b> (Marked in blue in the image).
 
 <div align="center"><img src="https://i.imgur.com/s5xnlGG.png" title="source: imgur.com" /></div>
 
-2. Na janela do Agendador de Tarefas, Localize a pasta do <b>MySQL</b> como mostra a figura abaixo:
+2. In the Task Scheduler window, locate the <b>MySQL</b> folder as shown in the figure below:
 
 <div align="center"><img src="https://i.imgur.com/OJ1aM3f.png" title="source: imgur.com" /></div>
 
-3. Clique sobre a tarefa <b>ManifestUpdate</b> com o botão direito mouse e clique na opção <b>Excluir</b> ou <b>Desativar</b>.
+3. Right-click on the <b>ManifestUpdate</b> task and click the <b>Delete</b> or <b>Disable</b> option.
 
 <div align="center"><img src="https://i.imgur.com/zXuiYZh.png" title="source: imgur.com" /></div>
 
 <br /><br />
 
-<div align="left"><a href="README.md"><img src="https://i.imgur.com/XMgF3gl.png" title="source: imgur.com" width="3%"/>Voltar</a></div>
+<div align="left"><a href="README.md"><img src="https://i.imgur.com/XMgF3gl.png" title="source: imgur.com" width="3%"/>Back</a></div>

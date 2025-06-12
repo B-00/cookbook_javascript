@@ -1,99 +1,99 @@
-<h1>Guia de Instalação do Insomnia</h1>
+<h1>Insomnia Installation Guide</h1>
 
 
 
-1.  Acesse o site do Insomnia: **[https://insomnia.rest/download](https://insomnia.rest/download)** e clique no botão **Download Insomnia for Windows**.
+1.  Access the Insomnia website: **[https://insomnia.rest/download](https://insomnia.rest/download)** and click the **Download Insomnia for Windows** button.
 <div align="center"><img src="https://i.imgur.com/OIDW45P.png" title="source: imgur.com" /></div>
 
-2. Após efetuar o download, execute o instalador do Insomnia.
+2. After downloading, run the Insomnia installer.
 
-3. Ao abrir o instalador, será exibida a imagem abaixo. Ao concluir a instalação, a imagem será fechada e o programa será inicializado.
+3. When you open the installer, the image below will be displayed. Upon completion of the installation, the image will close and the program will start.
 
 <div align="center"><img src="https://i.imgur.com/wrINn4S.png" title="source: imgur.com" /></div>
 
-4. Na janela **Welcome to Insomnia**, clique no botão **Continue**.
+4. In the **Welcome to Insomnia** window, click the **Continue** button.
 
 <div align="center"><img src="https://i.imgur.com/lY8RaWU.png" title="source: imgur.com" /></div>
 
 <br />
 
-| <img src="https://i.imgur.com/hOgWvSc.png" title="source: imgur.com" width="100px"/> | <p align="justify"> **ATENÇÃO:** No momento em que este material foi escrito, a versão mais atual do Insomnia era a versão 8.0. Ao utilizar este material no futuro, pode ser que a versão mais atual seja outra.</p> |
+| <img src="https://i.imgur.com/hOgWvSc.png" title="source: imgur.com" width="100px"/> | <p align="justify"> **ATTENTION:** At the time this material was written, the latest version of Insomnia was version 8.0. When using this material in the future, the latest version may be different.</p> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <br />
 
-5. Na janela **Collaborations with Cloud Sync now available**, clique na opção **Keep storing locally in local Vault** para continuar.
+5. In the **Collaborations with Cloud Sync now available** window, click the **Keep storing locally in local Vault** option to continue.
 
 <div align="center"><img src="https://i.imgur.com/zYudxmf.png" title="source: imgur.com" /></div>
 
-6. Na janela **Welcome to Insomnia**, clique na opção **Continue with Github** para criar uma conta grátis no site do Insomnia.
+6. In the **Welcome to Insomnia** window, click the **Continue with Github** option to create a free account on the Insomnia website.
 
 <div align="center"><img src="https://i.imgur.com/ox646DW.png" title="source: imgur.com" /></div>
 
-7. Você será redirecionado para o Navegador e será aberta a janela **Authorize Insomnia**. Clique no botão **Authorize Insomnia-infra** para continuar.
+7. You will be redirected to the Browser and the **Authorize Insomnia** window will open. Click the **Authorize Insomnia-infra** button to continue.
 
 <div align="center"><img src="https://i.imgur.com/BYa9sjj.png" title="source: imgur.com" /></div>
 
-8. Na janela **Enable E2E Security**, crie uma senha para a sua conta do **Insomnia** e clique no botão **Active E2E** para continuar.
+8. In the **Enable E2E Security** window, create a password for your **Insomnia** account and click the **Active E2E** button to continue.
 
 <div align="center"><img src=https://i.imgur.com/zBJ5s8x.png" title="source: imgur.com" /></div>
 
-9. Na janela **Choose your personal subscription**, selecione a opção **Free** e clique no botão **Subscribe**.
+9. In the **Choose your personal subscription** window, select the **Free** option and click the **Subscribe** button.
 
 <div align="center"><img src="https://i.imgur.com/lT7pHpx.png" title="source: imgur.com" /></div>
 
 <br />
 
-| <img src="https://i.imgur.com/hOgWvSc.png" title="source: imgur.com" width="80px"/> | <p align="justify"> **ATENÇÃO:** Caso seja selecionado um plano diferente, o Insomnia exigirá o Cartão de Crédito para emitir a fatura do serviço. </p> |
+| <img src="https://i.imgur.com/hOgWvSc.png" title="source: imgur.com" width="80px"/> | <p align="justify"> **ATTENTION:** If a different plan is selected, Insomnia will require a Credit Card to issue the service invoice. </p> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <br />
 
-10. Será aberta a janela **Insomnia Dashboard**.
+10. The **Insomnia Dashboard** window will open.
 
 <div align="center"><img src="https://i.imgur.com/LLBXGev.png" title="source: imgur.com" /></div>
 
-11. Volte para o Insomnia e na janela **Authorize Insomnia**, clique no link **Go Back** para continuar.
+11. Go back to Insomnia and in the **Authorize Insomnia** window, click the **Go Back** link to continue.
 
 <div align="center"><img src="https://i.imgur.com/JHTXLgR.png" title="source: imgur.com" /></div>
 
-12. Na janela **Welcome to Insomnia**, clique na opção **Continue with Github** para efetuar login no site do Insomnia.
+12. In the **Welcome to Insomnia** window, click the **Continue with Github** option to log in to the Insomnia website.
 
 <div align="center"><img src="https://i.imgur.com/I9TQ7rj.png" title="source: imgur.com" /></div>
 
-13. Na janela **Enter your passphrase**, digite a sua senha da conta do Insomnia.
+13. In the **Enter your passphrase** window, enter your Insomnia account password.
 
 <div align="center"><img src="https://i.imgur.com/gAg9j1p.png" title="source: imgur.com" /></div>
 
-14. Na janela **Permitir que este aplicativos abra o link do tipo insomnia com Insomnia**, clique no botão **Abrir link** para continuar.
+14. In the **Allow this application to open the insomnia type link with Insomnia** window, click the **Open link** button to continue.
 
 <div align="center"><img src="https://i.imgur.com/F7d9NZN.png" title="source: imgur.com" /></div>
 
-15. A janela principal do Insomnia será aberta e a instalação estará concluída.
+15. The main Insomnia window will open and the installation will be complete.
 
 <div align="center"><img src="https://i.imgur.com/XYSk5X2.png" title="source: imgur.com" /></div>
 
 <br />
 
-<h2 align="center">A janela principal do Insomnia não abriu!</h2>
+<h2 align="center">The main Insomnia window did not open!</h2>
 
 
 
-Caso a autenticação automática tenha falhado e a janela principal do Insomnia não tenha sido aberta, faça a autenticação manual:
+If automatic authentication failed and the main Insomnia window did not open, perform manual authentication:
 
-1. Volte para o Navegador clique no link **Manually enter token** para copiar o token de autenticação manual.
+1. Go back to the Browser and click the **Manually enter token** link to copy the manual authentication token.
 
 <div align="center"><img src="https://i.imgur.com/KJ6B3Ty.png" title="source: imgur.com" /></div>
 
-2. Volte para o Insomnia. 
-3. Na janela **Authorizing Insomnia**, cole o token na caixa de texto indicada abaixo e clique no botão **Log in** para continuar.
+2. Go back to Insomnia. 
+3. In the **Authorizing Insomnia** window, paste the token into the text box indicated below and click the **Log in** button to continue.
 
 <div align="center"><img src="https://i.imgur.com/kDbXImI.png" title="source: imgur.com" /></div>
 
-4. A janela principal do Insomnia será aberta e a instalação estará concluída.
+4. The main Insomnia window will open and the installation will be complete.
 
 <div align="center"><img src="https://i.imgur.com/XYSk5X2.png" title="source: imgur.com" /></div>
 
 <br /> <br />
 
-<div align="left"><a href="README.md"><img src="https://i.imgur.com/XMgF3gl.png" title="source: imgur.com" width="3%"/>Voltar</a></div>
+<div align="left"><a href="README.md"><img src="https://i.imgur.com/XMgF3gl.png" title="source: imgur.com" width="3%"/>Back</a></div>

@@ -1,100 +1,100 @@
-<h1>Guia de Instalação do GIT - Windows</h1>
+<h1>Git Installation Guide - Windows</h1>
 
 
-1. Faça o Download da Instalação do Git através do endereço: **https://git-scm.com/download/win**
+1. Download Git installation from the address: **https://git-scm.com/download/win**
 
-2. Você será redirecionado para o site do Git. Faça o download do arquivo **64-bit Git for Windows Setup** indicado na imagem abaixo:
+2. You will be redirected to the Git website. Download the **64-bit Git for Windows Setup** file indicated in the image below:
 
 <div align="center"><img src="https://i.imgur.com/3qvk6h1.png" title="source: imgur.com" /></div>
 
-3. Execute o arquivo **64-bit Git for Windows Setup**, com um duplo clique do mouse.
+3. Run the **64-bit Git for Windows Setup** file by double-clicking it.
 
-4. Na janela **Information**, será exibida a licença do Git. Clique em **Next** para continuar.
+4. In the **Information** window, the Git license will be displayed. Click **Next** to continue.
 
 <div align="center"><img src="https://i.imgur.com/CPTTEa7.png" title="source: imgur.com" /></div>
 
-5. Na janela **Select Destination Location**, será definida a pasta onde o Git será instalado. Mantenha a pasta padrão, como mostra a imagem abaixo e clique em **Next** para continuar.
+5. In the **Select Destination Location** window, you will define the folder where Git will be installed. Keep the default folder, as shown in the image below, and click **Next** to continue.
 
 <div align="center"><img src="https://i.imgur.com/K0ilc4z.png" title="source: imgur.com" /></div>
 
-6. Na janela **Select Components**, você pode selecionar os componentes do Git que serão instalados. Mantenha as opções da instalação padrão, como mostra a imagem abaixo e clique em **Next** para continuar.
+6. In the **Select Components** window, you can select which Git components will be installed. Keep the default installation options, as shown in the image below, and click **Next** to continue.
 
 <div align="center"><img src="https://i.imgur.com/0zMspFf.png" title="source: imgur.com" /></div>
 
-7. Na janela **Select Start Menu Folder**, você pode indicar o nome da pasta no Menu Iniciar do Windows onde os atalhos do Git serão criados. Mantenha as opções da instalação padrão, como mostra a imagem abaixo e clique em **Next** para continuar.
+7. In the **Select Start Menu Folder** window, you can indicate the name of the folder in the Windows Start Menu where Git shortcuts will be created. Keep the default installation options, as shown in the image below, and click **Next** to continue.
 
 <div align="center"><img src="https://i.imgur.com/CSLmTGp.png" title="source: imgur.com" /></div>
 
-8. Na janela **Choosing the default editor used by Git**, você pode selecionar o Editor de Código (IDE) padrão do Git. Neste tutorial sugerimos utilizar o **Visual Studio Code** (caso esteja instalado), como mostra a imagem abaixo e na sequência clique em **Next** para continuar.
+8. In the **Choosing the default editor used by Git** window, you can select the default Code Editor (IDE) for Git. In this tutorial, we suggest using **Visual Studio Code** (if installed), as shown in the image below, and then click **Next** to continue.
 
 <div align="center"><img src="https://i.imgur.com/ygLVkYK.png" title="source: imgur.com" /></div>
 
-*Caso você não tenha o **Visual Studio Code** instalado na sua máquina, você pode deixar a opção padrão do instalador do Git e configurar manualmente depois de instalar o Visual Studio Code.*
+*If you don't have **Visual Studio Code** installed on your machine, you can leave the default option in the Git installer and configure it manually after installing Visual Studio Code.*
 
-9. Na janela **Adjusting the name of the initial branch in new repositories**, você pode alterar o nome padrão de um novo repositório Git. Vamos alterar marcando a opção **Override the default branch name for new repositories** e indicar a palavra **main** como nome padrão para novos repositórios Git, como mostra a imagem abaixo e clique em **Next** para continuar.
+9. In the **Adjusting the name of the initial branch in new repositories** window, you can change the default name of a new Git repository. Let's change it by selecting the option **Override the default branch name for new repositories** and entering the word **main** as the default name for new Git repositories, as shown in the image below, and click **Next** to continue.
 
 <div align="center"><img src="https://i.imgur.com/qYNuggl.png" title="source: imgur.com" /></div>
 
-10. Na janela **Adjusting your PATH environment**, você pode indicar em quais Teminais os comandos do Git serão executados. Marque a opção **Git from the command line and also from 3rd-party software** para executar os comandos em todos os terminais disponíveis no Windows (CMD - Prompt de Comando do Windows, Power Shell, Git Bash, entre outros), como mostra a imagem abaixo e clique em **Next** para continuar.
+10. In the **Adjusting your PATH environment** window, you can indicate in which Terminals Git commands will be executed. Select the option **Git from the command line and also from 3rd-party software** to execute commands in all terminals available in Windows (CMD - Windows Command Prompt, Power Shell, Git Bash, among others), as shown in the image below, and click **Next** to continue.
 
 <div align="center"><img src="https://i.imgur.com/t38sg5x.png" title="source: imgur.com" /></div>
 
-11. Na janela **Choosing the SSH executable**, você poderá selecionar qual cliente SSH (**Secure Socket Shell**) será utilizado. Mantenha a opção padrão, como mostra a imagem abaixo e na sequência clique em **Next** para continuar.
+11. In the **Choosing the SSH executable** window, you can select which SSH (**Secure Socket Shell**) client will be used. Keep the default option, as shown in the image below, and then click **Next** to continue.
 
 <div align="center"><img src="https://i.imgur.com/vUW4AxY.png" title="source: imgur.com" /></div>
 
-> **SSH** é a sigla  para **Secure Socket Shell, que é um dos protocolos específicos de  segurança de troca de arquivos entre cliente e servidor de Internet,  usando criptografia**. O objetivo do SSH é permitir que  pessoas desenvolvedoras ou outros usuários realizem alterações em sites e servidores utilizando uma conexão simples e segura.
+> **SSH** stands for **Secure Socket Shell, which is one of the specific security protocols for file exchange between client and Internet server, using encryption**. The purpose of SSH is to allow developers or other users to make changes to websites and servers using a simple and secure connection.
 
-12. Na janela **Choosing HTTPS transport backend**, você poderá selecionar qual o protocolo **SSL** (**Secure Socket Layer**) será utilizado. Mantenha a opção padrão, como mostra a imagem abaixo e na sequência clique em **Next** para continuar.
+12. In the **Choosing HTTPS transport backend** window, you can select which **SSL** (**Secure Socket Layer**) protocol will be used. Keep the default option, as shown in the image below, and then click **Next** to continue.
 
 <div align="center"><img src="https://i.imgur.com/k8Gup5S.png" title="source: imgur.com" /></div>
 
-13. Na janela **Configuring the line ending conversions**, você poderá configurar como o Git irá tratar os arquivos de código. Mantenha a opção padrão, como mostra a imagem abaixo e na sequência clique em **Next** para continuar.
+13. In the **Configuring the line ending conversions** window, you can configure how Git will handle code files. Keep the default option, as shown in the image below, and then click **Next** to continue.
 
 <div align="center"><img src="https://i.imgur.com/4ToP3Yr.png" title="source: imgur.com" /></div>
 
-14. Na janela **Configuring the terminal emulator to use with Git Bash**, você poderá selecionar como o Terminal do Git Bash será emulado no Windows. Mantenha a opção padrão, como mostra a imagem abaixo e na sequência clique em **Next** para continuar.
+14. In the **Configuring the terminal emulator to use with Git Bash** window, you can select how the Git Bash Terminal will be emulated in Windows. Keep the default option, as shown in the image below, and then click **Next** to continue.
 
 <div align="center"><img src="https://i.imgur.com/JU0F715.png" title="source: imgur.com" /></div>
 
-*Como o Bash é um interpretador de comandos do mundo Unix/Linux, ele não será executado de forma nativa no Windows, ou seja, ele será emulado.*
+*Since Bash is a command interpreter from the Unix/Linux world, it will not run natively on Windows, meaning it will be emulated.*
 
-15. Na janela **Choose the default behavior of `git pull `**, você poderá selecionar como o comando **git pull** se comportará. Mantenha a opção padrão, como mostra a imagem abaixo e na sequência clique em **Next** para continuar.
+15. In the **Choose the default behavior of `git pull`** window, you can select how the **git pull** command will behave. Keep the default option, as shown in the image below, and then click **Next** to continue.
 
 <div align="center"><img src="https://i.imgur.com/Iom1ZdV.png" title="source: imgur.com" /></div>
 
-16. Na janela **Choose a credential helper**, você poderá selecionar como o **Git** irá gerenciar os dados do usuário. Mantenha a opção padrão, como mostra a imagem abaixo e na sequência clique em **Next** para continuar.
+16. In the **Choose a credential helper** window, you can select how **Git** will manage user data. Keep the default option, as shown in the image below, and then click **Next** to continue.
 
 <div align="center"><img src="https://i.imgur.com/OxOL4g1.png" title="source: imgur.com" /></div>
 
-17. Na janela **Choose extra options**, você poderá selecionar recursos extras do **Git**. Mantenha a opção padrão, como mostra a imagem abaixo e na sequência clique em **Next** para continuar.
+17. In the **Choose extra options** window, you can select extra features of **Git**. Keep the default option, as shown in the image below, and then click **Next** to continue.
 
 <div align="center"><img src="https://i.imgur.com/1ifUWXU.png" title="source: imgur.com" /></div>
 
-18. Na janela **Configuring experimental options**, você poderá selecionar recursos experimentais (em teste) do **Git**. Mantenha a opção padrão (todas as opções desmarcadas), como mostra a imagem abaixo e na sequência clique em **Next** para continuar.
+18. In the **Configuring experimental options** window, you can select experimental (in testing) features of **Git**. Keep the default option (all options unchecked), as shown in the image below, and then click **Next** to continue.
 
 <div align="center"><img src="https://i.imgur.com/2phNgD8.png" title="source: imgur.com" /></div>
 
-19. Aguarde a conclusão da instalação.
+19. Wait for the installation to complete.
 
 <div align="center"><img src="https://i.imgur.com/3bpvLK7.png" title="source: imgur.com" /></div>
 
-20. Assim que a instalação for concluída, na janela **Completing the Git Setup Wizard**, mantenha todas as opções desmarcadas e na sequência clique no botão **Finish**.
+20. Once the installation is complete, in the **Completing the Git Setup Wizard** window, keep all options unchecked and then click the **Finish** button.
 
 <div align="center"><img src="https://i.imgur.com/TCTKNpk.png" title="source: imgur.com" /></div>
 
-21. Na sequência será solicitado que você se conecte com o **Github**. **Caso não seja solicitado após a instalação, ao enviar um arquivo para o Github pela primeira vez, o Git irá solicitar a autenticação**. Clique no botão **Sign in with your browser**.
+21. Next, you will be asked to connect to **Github**. **If not prompted after installation, when sending a file to Github for the first time, Git will request authentication**. Click the **Sign in with your browser** button.
 
 <div align="center"><img src="https://i.imgur.com/sRX8K2X.png" title="source: imgur.com" /></div>
 
-22. O seu Navegador da Internet será aberto e você será redirecionado para a página **Sign in to GitHub**, semelhante a imagem abaixo:
+22. Your Internet Browser will open and you will be redirected to the **Sign in to GitHub** page, similar to the image below:
 
 <div align="center"><img src="https://i.imgur.com/nFkKV6H.png" title="source: imgur.com" /></div>
 
-23. Digite o seu usuário e senha do Github para autenticar. Na sequência será exibida a janela abaixo, informando que a autenticação foi realizada com sucesso!
+23. Enter your Github username and password to authenticate. Next, the window below will be displayed, informing you that the authentication was successful!
 
 <div align="center"><img src="https://i.imgur.com/wI9eQWo.png" title="source: imgur.com" /></div>
 
 <br /><br />
 
-<div align="left"><a href="README.md"><img src="https://i.imgur.com/XMgF3gl.png" title="source: imgur.com" width="3%"/>Voltar</a></div>
+<div align="left"><a href="README.md"><img src="https://i.imgur.com/XMgF3gl.png" title="source: imgur.com" width="3%"/>Back</a></div>

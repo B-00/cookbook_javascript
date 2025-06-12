@@ -1,64 +1,64 @@
-﻿<h1>Guia de Instalação do Node</h1>
+<h1>Node Installation Guide</h1>
 
-1.  Acesse o site do node: **https://nodejs.org/en/** e clique no link para efetuar o download da versão **LTS** .
+1.  Access the Node website: **https://nodejs.org/en/** and click the link to download the **LTS** version.
 
 <div align="center"><img src="https://i.imgur.com/AixlDJE.png" title="source: imgur.com" /></div>
 
-| <img src="https://i.imgur.com/hOgWvSc.png" title="source: imgur.com" width="120px"/> | <p align="justify"> **ATENÇÃO:** No momento em que este guia foi escrito, a versão LTS mais atual do Node era a versão 16.15.0 LTS. Ao utilizar este guia no futuro, pode ser que a versão mais atual seja outra* </p> |
+| <img src="https://i.imgur.com/hOgWvSc.png" title="source: imgur.com" width="120px"/> | <p align="justify"> **ATTENTION:** At the time this guide was written, the latest LTS version of Node was 16.15.0 LTS. When using this guide in the future, the latest version may be different* </p> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-2. Após efetuar o download, execute o instalador do Node.
+2. After downloading, run the Node installer.
 
-3. Ao abrir o instalador, caso seja exibida a mensagem abaixo, clique em **OK** para continuar.
+3. When opening the installer, if the message below is displayed, click **OK** to continue.
 
 <div align="center"><img src="https://i.imgur.com/TdwimxP.png" title="source: imgur.com" /></div>
 
-4. Na janela **Welcome to Node.js Setup Wizard**, clique no botão **Next** para continuar.
+4. In the **Welcome to Node.js Setup Wizard** window, click the **Next** button to continue.
 
 <div align="center"><img src=https://i.imgur.com/wgaEajw.png" title="source: imgur.com" /></div>
 
-5. Na janela **End-User License Agreement**, marque a opção **I accept the terms in the License Agreement** e  clique no botão **Next** para continuar.
+5. In the **End-User License Agreement** window, check the **I accept the terms in the License Agreement** option and click the **Next** button to continue.
 
 <div align="center"><img src="https://i.imgur.com/x16Xijj.png" title="source: imgur.com" /></div>
 
-6. Na janela **Destination Folder**, clique no botão **Next** para continuar.
+6. In the **Destination Folder** window, click the **Next** button to continue.
 
 <div align="center"><img src="https://i.imgur.com/bUdrqe2.png" title="source: imgur.com" /></div>
 
-7. Na janela **Custom Setup**, clique no botão **Next** para continuar.
+7. In the **Custom Setup** window, click the **Next** button to continue.
 
 <div align="center"><img src="https://i.imgur.com/IzTjPnw.png" title="source: imgur.com" /></div>
 
-8. Na janela **Tools for Native Modules**, clique no botão **Next** para continuar.
+8. In the **Tools for Native Modules** window, click the **Next** button to continue.
 
 <div align="center"><img src="https://i.imgur.com/ORAmFj7.png" title="source: imgur.com" /></div>
 
-9. Na janela **Ready to install Node.js**, clique no botão **Install** para continuar.
+9. In the **Ready to install Node.js** window, click the **Install** button to continue.
 
 <div align="center"><img src="https://i.imgur.com/kUBz86T.png" title="source: imgur.com" /></div>
 
-10. Aguarde a conclusão da Instalação. Caso seja solicitada a confirmação da instalação, clique no botão **OK**  para continuar.
+10. Wait for the installation to complete. If prompted to confirm the installation, click the **OK** button to continue.
 
 <div align="center"><img src="https://i.imgur.com/7jWII3W.png" title="source: imgur.com" /></div>
 
-11. Na janela **Completed the Node.js Setup Wizard**, clique no botão **Finish** para concluir.
+11. In the **Completed the Node.js Setup Wizard** window, click the **Finish** button to conclude.
 
 <div align="center"><img src="https://i.imgur.com/azIxB0s.png" title="source: imgur.com" /></div>
 
-12. Para verificar se a instalação do Node foi bem sucedida, execute o atalho <img width="80" src="https://i.imgur.com/JpqKaVh.png" title="source: imgur.com" /> para abrir a janela Executar.
+12. To verify if the Node installation was successful, use the shortcut <img width="80" src="https://i.imgur.com/JpqKaVh.png" title="source: imgur.com" /> to open the Run window.
 
 <div align="center"><img src="https://i.imgur.com/xj8I3W3.png" title="source: imgur.com" /></div>
 
-13. Digite o comando **cmd** para abrir o **Prompt de comando do Windows**.
+13. Type the command **cmd** to open the **Windows Command Prompt**.
   
-14. Verifique se o **Node** está instalado através do comando:
+14. Verify if **Node** is installed using the command:
 
 ```bash
 node -v
 ```
 <div><img src="https://i.imgur.com/auSYSHI.png" title="source: imgur.com" /></div>
 
-15. Verifique também se o **NPM** está instalado através do comando:
+15. Also verify if **NPM** is installed using the command:
 
 ```bash
 npm -v
@@ -68,4 +68,4 @@ npm -v
 
 <br /><br />
 
-<div align="left"><a href="README.md"><img src="https://i.imgur.com/XMgF3gl.png" title="source: imgur.com" width="3%"/>Voltar</a></div>
+<div align="left"><a href="README.md"><img src="https://i.imgur.com/XMgF3gl.png" title="source: imgur.com" width="3%"/>Back</a></div>
